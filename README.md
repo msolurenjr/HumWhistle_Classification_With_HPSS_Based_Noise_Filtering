@@ -1,4 +1,4 @@
-### Hum and whistle classification using a Harmonic-Percussion Signal Separation (HPSS) based noise filter
+### Hum and whistle classification using a Harmonic-Percussive Signal Separation (HPSS) based noise filter
 
 This projects involves using a dataset of self-recorded hums and whistles to perform audio classification. The two notebooks contain the following:
 
